@@ -16,6 +16,17 @@ This repo is used to track my learning through this journey, and hopefully it he
 
 Source: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
+### Data Structure Operation Complexity
+
+| Data Structure          | Access    | Search    | Insertion | Deletion  | Comments  |
+| ----------------------- | :-------: | :-------: | :-------: | :-------: | :-------- |
+| **Array**               | O(1)      | O(n)      | O(n)      | O(n)      |           |
+| **Stack**               | O(n)      | O(n)      | O(1)      | O(1)      |           |
+| **Queue**               | O(n)      | O(n)      | O(1)      | O(1)      |           |
+| **Linked List**         | O(n)      | O(n)      | O(1)      | O(n)      |           |
+| **Hash Table**          | N/A       | O(1)      | O(1)      | O(1)      | Average of O(1) but O(n) is possible in worst case |
+| **Binary Search Tree**  | O(n)      | O(n)      | O(n)      | O(n)      | In case of balanced tree costs would be O(log(n)) |
+
 ## Data Structures
 
 A data structure is a particular way of organizing data in a computer so that it can be accessed and modified in an efficient manner. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
