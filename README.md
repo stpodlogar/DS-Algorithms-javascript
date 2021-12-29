@@ -23,7 +23,7 @@ Source: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 | **Array**               | O(1)      | O(n)      | O(n)      | O(n)      |           |
 | **Stack**               | O(n)      | O(n)      | O(1)      | O(1)      |           |
 | **Queue**               | O(n)      | O(n)      | O(1)      | O(1)      |           |
-| **Linked List**         | O(n)      | O(n)      | O(1)      | O(n)      |           |
+| **Linked List**         | O(n)      | O(n)      | O(1)      | O(1)      |           |
 | **Hash Table**          | N/A       | O(1)      | O(1)      | O(1)      | Average of O(1) but O(n) is possible in worst case |
 | **Binary Search Tree**  | O(n)      | O(n)      | O(n)      | O(n)      | In case of balanced tree costs would be O(log(n)) |
 
