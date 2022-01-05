@@ -4,6 +4,8 @@ A *Queue* is a collection of elements, supporting two principle operations: *enq
 
 **First in, first out data structure (FIFO)**: the oldest added object is the first to be removed
 
+![Queue](../../../assets/queue.svgß)
+
 ## Complexitites
 
 ### Time Complexity
