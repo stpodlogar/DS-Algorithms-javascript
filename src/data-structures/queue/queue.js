@@ -1,5 +1,7 @@
 // Queues
 
+// Built with Linked List
+
 class Node {
     constructor(value) {
         this.value = value;
@@ -8,17 +10,17 @@ class Node {
 }
 
 class Queue {
-constructor() {
-    this.first = null;
-    this.last = null;
-    this.length = 0
-}
+    constructor() {
+        this.first = null;
+        this.last = null;
+        this.length = 0
+    }
 
     peek() {
         if (!this.first) {
             return null;
         }
-            return this.first;
+        return this.first;
     }
 
     enqueue(value) {
