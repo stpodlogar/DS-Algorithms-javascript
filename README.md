@@ -35,6 +35,8 @@ A data structure is a particular way of organizing data in a computer so that it
 - [Stack](/src/data-structures/stack)
 - [Queue](/src/data-structures/queue)
 - [Hash Table](/src/data-structures/hash-table)
+- [Tree](/src/data-structures/tree)
+  - [Binary Search Tree](src/data-structures/tree/binary-search-tree)
 
 ## Algorithms
 
