@@ -42,3 +42,6 @@ A data structure is a particular way of organizing data in a computer so that it
 ## Algorithms
 
 An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules that precisely define a sequence of operations.
+
+- **Sorting**
+  - [Bubble Sort](/src/algorithms/sorting/bubble-sort)
