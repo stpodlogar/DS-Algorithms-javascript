@@ -45,3 +45,5 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 
 - **Sorting**
   - [Bubble Sort](/src/algorithms/sorting/bubble-sort)
+  - [Selection Sort](/src/algorithms/sorting/selection-sort)
+  - [Insertion Sort](/src/algorithms/sorting/insertion-sort)
