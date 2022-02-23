@@ -6,9 +6,8 @@
 
 <h4 align="center">This repository contains examples and implementations of commonly used data structures and algorithms, as well as example problems, all written in JavaScript.</h4>
 
-<p align="center">Each data structure and algorithm has its own separate README with further explanations and code.</p>
-
-<p align="center">This repo is used to track my learning through this journey, and hopefully it helps anyone else who comes across it.</p>
+<p align="center">Each data structure and algorithm has its own separate README with further explanations and code.
+This repo is used to track my learning through this journey, and hopefully it helps anyone else who comes across it.</p>
 
 <p align="center">
   <a href="#complexity-analysis">Complexity Analysis</a> •
@@ -60,3 +59,4 @@ An algorithm is an unambiguous specification of how to solve a class of problems
   - [Merge Sort](/src/algorithms/sorting/merge-sort)
 - **Searches**
   - [Linear Search](/src/algorithms/searches/linear-search)
+  - [Binary Search](/src/algorithms/searches/binary-search)
