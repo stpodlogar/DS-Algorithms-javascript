@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">This GitHub repository contains examples and implementations of commonly used data structures and algorithms, as well as example problems, all written in JavaScript.</h4>
+<h4 align="center">This repository contains examples and implementations of commonly used data structures and algorithms, as well as example problems, all written in JavaScript.</h4>
 
 <p align="center">Each data structure and algorithm has its own separate README with further explanations and code.
 This repo is used to track my learning through this journey, and hopefully it helps anyone else who comes across it.</p>
